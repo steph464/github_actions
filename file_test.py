@@ -1,6 +1,3 @@
-import pytest
-
-
 def test_calc_addition():
     """
     Fonction de test pour vérifier le résultat de 2 + 4.
