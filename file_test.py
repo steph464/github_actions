@@ -30,3 +30,4 @@ def test_coucou():
     assert output == 'hello'
 
 
+# Ligne vide ajoutée ci-dessous
